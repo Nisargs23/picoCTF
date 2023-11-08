@@ -4,6 +4,7 @@
 I started off by having a quick glance at the code.
 Then looked into it in detail. 
 The first few lines made it clear what the format of the flag would be.
+
 <img width="586" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/37fa2b11-ce18-4c27-9653-443c3eceebcc">
 
 I would have to get the dynamic1_trial part to get the flag.
@@ -29,6 +30,7 @@ And the username is the string being hashed.
 Now I would have to get these values.
 
 <img width="590" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/8576aa4a-3a9e-47da-8255-c17b686ebca7">
+
 I tried to do this. 
 But got an error that strings must be encoded before hashing.
 When I looked up the error on google, I found I could do the hashing if the string was bytes object. This was already done in the code. I just didn't realise that b meant converting it into bytes.
