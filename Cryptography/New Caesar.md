@@ -18,4 +18,6 @@ I had to write a code to decode the b16_encode function. It took a little help t
 
 <img width="485" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/ab8fb7e1-7b80-464e-8169-5d9c826d8ed7">
 
+After seeing the version of the flag for all 16 letters, I checked a few, but this one seemed the most appropriate.
+
 picoCTF{et_tu?_1ac5f3d7920a85610afeb2572831daa8}
