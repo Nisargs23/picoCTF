@@ -6,7 +6,7 @@ I opened it in powerpoint, but there was only a single slide with content. The r
 <img width="908" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/ec0a1a1a-2eb6-400d-9bcb-688a688d5061">
 
 
-As it was a .pptm file it had macros. Now I didn't know this earlier, but many MS Office documents are a collection of files and folders that can actually be extracted.
+As it was a .pptm file it had macros. Now I didn't know this earlier, but many MS Office documents are a collection of files and folders that can actually be extracted. The command to do yhis was unzip.
 
 <img width="647" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/ba9acf75-1809-4208-a0c6-08d164c04383">
 
@@ -14,7 +14,8 @@ Now there were quite a few files in this extracted bunch of files.
 
 <img width="948" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/59752131-a027-483f-9898-c93d6b377922">
 
-I opened a few files, then I saw the last one it had hidden in the name.
+I opened a few files. Most of the contents of these files were of no use.Then I saw the last one. It had hidden in the name.
+So that would probably be the one.
 
 It had a string which was encrypted
 
