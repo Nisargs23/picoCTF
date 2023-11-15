@@ -15,7 +15,9 @@ In the challenge, we are given the value of e, c and n, and the value of e is sm
 
 Upon computing the cube root of c, we get a value. I couldn't find any cube root finders for such large numbers online, so I used a program to find cube root.
 
-This value when converterd to hex and subsequently to ascii, gives the flag
+I learned that having a small value for e makes the encryption vulnerable and the values are of a huge magnitude.
+
+The obtained cube root value when converterd to hex and subsequently to ascii, gives the flag
 
 
 picoCTF{n33d_a_lArg3r_e_d0cd6eae}
