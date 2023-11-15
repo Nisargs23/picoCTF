@@ -16,6 +16,8 @@ Now the question said that the register was at the end of the main function. A g
 
 The questions then said to disassemble the file. Turns outh the command to disassemble the file is disassemble. 
 
+Then I had to look for eax. The number next to it would give the flag.
+
 <img width="475" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/a4c0d9ff-3715-46f6-94fc-ae4462051253">
 
 <img width="411" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/0ae57a94-19b3-41e1-9568-684374781c9f">
