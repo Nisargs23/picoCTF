@@ -1,6 +1,6 @@
 #tunn3l v1s10n
 
-In this channel, there was a file of unkonwn type. First thing I tried to do was to try to find out what kind of file it was.
+In this channel, there was a file of unkonwn type. First thing I tried to do was to try and find out what kind of file it was.
 
 <img width="475" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/a5aa5ca8-3122-478b-adcb-1dcfea06b6bf">
 
@@ -14,11 +14,11 @@ I did the same and from what I learned, the first 2 letters being BM indicates t
 
 Bitmap files are used to store images and they have a .bmp extension.
 
-I downloaded a hex editor for this and saved it as a bitmap file. It didn't open, so thee was something wrong with the file.
+I downloaded a hex editor for this and saved it as a bitmap file. It didn't open, so there was something wrong with the file.
 
 As per a few websites and videos, the header had incorrect values and would have to be changed to get an image.
 
-So I changed the faulty looking values.  
+So I changed the faulty looking values. Which I honestly could not tell myself. I had to get help.
 
 ![image](https://github.com/Nisargs23/picoCTF/assets/148000598/f32e4ee2-e320-4b5c-9d42-c69d13bd690a)
 
