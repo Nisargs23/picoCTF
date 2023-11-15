@@ -3,8 +3,8 @@
 Well for this challenge first I had to lok up what gdb is.
 It stands for GNU debugger.
 From what I understand it basically lets us see what goes on in the program in a more detailed way.
-First to use gdb, had to learn how to access files on my computer using wsl.
-And then of course install gdu.
+First to use gdb, I had to learn how to access files on my computer using wsl.
+And then of course install gdb.
 
 <img width="516" alt="image" src="https://github.com/Nisargs23/picoCTF/assets/148000598/8141cc0f-d140-412c-851f-378cbd5d4f0c">
 
